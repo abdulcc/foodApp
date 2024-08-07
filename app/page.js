@@ -25,12 +25,12 @@ export default function Home() {
         <section className={styles.section}>
           <h2>How it works</h2>
           <p>
-            NextLevel Food is a platform for foodies to share their favorite
+            Next Level Food is a platform for foodies to share their favorite
             recipes with the world. It&apos;s a place to discover new dishes,
             and to connect with other food lovers.
           </p>
           <p>
-            NextLevel Food is a place to discover new dishes, and to connect
+            Next Level Food is a place to discover new dishes, and to connect
             with other food lovers.
           </p>
         </section>
